@@ -23,4 +23,22 @@ This is a Node.js command-line application that generates a simple logo as an SV
 ## Usage
 
 To run the SVG Maker, execute the following command in the project directory:
+  NPM Start
+
+You will be prompted to enter the text for the logo, choose the text color, select the shape, and specify the shape color. Follow the on-screen instructions and provide the required input.
+
+Once you have entered all the necessary information, an SVG file named `logo.svg` will be generated in the project directory. You can open this file in a web browser to view the logo.
+
+## Examples
+
+You can find example SVG files created with the SVG Logo Maker in the `examples` folder of this repository.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request. Make sure to follow the existing code style and include appropriate tests.
+
+## License
+
+This project is licensed under the MIT License.
+  
 
