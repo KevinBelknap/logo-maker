@@ -41,14 +41,14 @@ function writeToFile(fileName, data) {
 }
 function getData(){
     inquirer.prompt(questions).then((answers) => {
-console.log(answers);
+console.log(answers.shape);
 let shape;
 switch(answers.shape){
-    case "circle":
+    case "Circle":
             shape = new Circle();
             break;
 
-          case "square":
+          case "Square":
             shape = new Square();
             break;
 
