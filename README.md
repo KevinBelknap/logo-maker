@@ -26,7 +26,11 @@ To run the SVG Maker, execute the following command in the project directory:
 
 `NPM Start`
 
-You will be prompted to enter the text for the logo, choose the text color, select the shape, and specify the shape color. Follow the on-screen instructions and provide the required input.
+You will be prompted to enter the text for the logo, choose the text color, select the shape, and specify the shape color. Follow the on-screen instructions and provide the required input. I have attached a video as a example.
+
+
+https://github.com/KevinBelknap/logo-maker/assets/128446838/bb5bdeb8-4a9a-4838-82a8-1a6e73a34e23
+
 
 Once you have entered all the necessary information, an SVG file named `SVG.svg` will be generated in the project directory. You can open this file in a web browser to view your new logo!
 
